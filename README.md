@@ -6,6 +6,13 @@
 </p>
 
 <p align="center">
+  <a href="https://dhairyamarwaha.com/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/dhairya-marwaha-955897206/">LinkedIn</a> ·
+  <a href="https://x.com/Dhairya15Marwah">X</a>
+</p>
+
+<p align="center">
+  <a href="https://dhairyamarwaha.com/"><img src="https://img.shields.io/badge/portfolio-dhairyamarwaha.com-006b73?style=flat-square" alt="portfolio"/></a>
   <a href="https://github.com/Dkm0315?tab=repositories"><img src="https://img.shields.io/badge/focus-AI%20agent%20infrastructure-ffb000?style=flat-square" alt="focus"/></a>
   <img src="https://img.shields.io/badge/stack-TypeScript%20·%20Python%20·%20Rust%20·%20Go%20·%20Swift%20·%20Vue-1f2430?style=flat-square" alt="stack"/>
   <img src="https://komarev.com/ghpvc/?username=Dkm0315&style=flat-square&color=ffb000&label=profile+views" alt="views"/>
